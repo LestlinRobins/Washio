@@ -25,8 +25,12 @@ To run the Wash.io app locally, follow these steps:
    cd washio
    ```
 
+<<<<<<< Updated upstream
 4. **Configure Supabase Credentials**
 
+=======
+3. **Configure Supabase Credentials**
+>>>>>>> Stashed changes
    Add your superbase credentials in `/lib/main.dart`
 ```dart
 await Supabase.initialize(
@@ -44,9 +48,9 @@ Run `flutter run`
 
 We welcome contributions! To contribute:
 
-Clone the GitHub repository.
-Make your changes.
-Submit a pull request.
+1. Clone the GitHub repository.
+2. Make your changes.
+3. Submit a pull request.
 
 ## Support ☕
 
